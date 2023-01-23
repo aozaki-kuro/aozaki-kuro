@@ -5,7 +5,7 @@
 ## Get in touch
 
 - 📧 Email: `hello+gh [at] aozaki.cc`
-- 🪐 Mastodon / ActivityPub: <a rel="me" href="https://mastodon.social/@aozakiii">@aozakiii@mastodon.social</a>
+- 🪐 Mastodon: <a rel="me" href="https://mastodon.social/@aozakiii">`@aozakiii@mastodon.social`</a>
 - 💬 Telegram: [@aaaaozaki](https://t.me/aaaaozaki)
 - ✏️ Blog: [Aozaki's Blog](https://blog.aozaki.cc)
 
