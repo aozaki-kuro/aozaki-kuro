@@ -11,4 +11,4 @@
 
 ## Misc
 
-🔑 GPG: 0x4F59 0A0F 92AC 50A0 FF47 188D BE99 C364 96ED FE9A. [Public key](https://aozaki.cc/pubkey.asc).
+🔑 GPG: 0x4F59 0A0F 92AC 50A0 FF47 188D BE99 C364 96ED FE9A. [Public key](https://aozaki.cc/pubkey.txt).
